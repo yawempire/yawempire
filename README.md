@@ -8,14 +8,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Donald Edinam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">yawempire</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Donald+Edinam">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=yawempire">「 Google Me 」</a>
     <br>
     「 I am a Frontend engineer from <b>Ghana</b> 」
     <br>
