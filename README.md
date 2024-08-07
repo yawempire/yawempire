@@ -91,13 +91,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/yawempire">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yawempire&theme=radical&border=7F3FBF&background=0D1117" alt="yawempire's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/yawempire">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yawempire&theme=radical" alt="yawempire's GitHub Contribution"/>
   </a>
